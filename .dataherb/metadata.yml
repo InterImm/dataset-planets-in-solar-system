@@ -65,7 +65,7 @@ data:
   - name: 'atmosphere'
     description: 'composition of atmosphere'
 license:
-- name: Creative Commons Attribution-ShareAlike License
+- name: Creative Commons Attribution-ShareAlike License, attribute to Wikipedia using references
   link: https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
 references:
 - name: 'Planet from Wikipedia'
