@@ -5,6 +5,7 @@ contributors:
   github: 'InterImm'
 data:
 - name: 'planets in the solar system in csv format'
+  description: 'list of planets in our solar system with their basic information'
   format: 'csv'
   path: 'dataset/planets_in_solar_system.csv'
   size: '714B'
@@ -35,6 +36,7 @@ data:
   - name: 'atmosphere'
     description: 'composition of atmosphere'
 - name: 'planets in the solar system in json format'
+  description: 'list of planets in our solar system with their basic information'
   format: 'json'
   path: 'dataset/planets_in_solar_system.json'
   size: '2.7K'
